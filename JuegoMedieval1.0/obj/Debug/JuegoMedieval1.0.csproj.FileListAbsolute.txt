@@ -1,0 +1,57 @@
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormInicio.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormCrearJugador.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.Properties.Resources.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.exe.config
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.exe
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.pdb
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormGuerrero.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormJuegoClick.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormPrincipal.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormTrabajar.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.exe
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.pdb
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormInfo.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormComerciar.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormExplorar.resources
+C:\Users\Usuario\Desktop\YT C#\JuegoMedieval1.0\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormRobar.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.exe.config
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.exe
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.pdb
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormExplorar.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormComerciar.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormGuerrero.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormInfo.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormInicio.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormCrearJugador.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormJuegoClick.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormPrincipal.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormRobar.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormTrabajar.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.Properties.Resources.resources
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.exe
+C:\Users\Usuario\Desktop\YT C#\MedievalGame\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.pdb
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.exe.config
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.exe
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\bin\Debug\JuegoMedieval1.0.pdb
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormExplorar.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormComerciar.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormGuerrero.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormInfo.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormInicio.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormCrearJugador.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormJuegoClick.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormPrincipal.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormRobar.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.FormTrabajar.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1._0.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.exe
+C:\Users\Usuario\Desktop\MedievalGame-main\JuegoMedieval1.0\obj\Debug\JuegoMedieval1.0.pdb
